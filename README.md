@@ -12,33 +12,12 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=whynot3978&theme=tokyonight&locale=ru&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon&card_width=1000&excludeDaysLabel=EB5454" alt="GitHub Streak" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whynot3978&theme=tokyo-night&custom_title=Коммиты)](https://github.com/whynot3978/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whynot3978&theme=tokyo-night&custom_title=Статистика+написания+коммитов)](https://github.com/whynot3978/github-readme-activity-graph)
 
-<h3>Моя продуктивность в разное время рабочего дня</h3>
-<p>🌞 Утро  -->   ███████░░░░░░░░░░░░░░░░░░   31.09% </p>
-<p>🌆 День   -->  ██████░░░░░░░░░░░░░░░░░░░   24.05% </p>
-<p>🌃 Вечер  -->  ████████░░░░░░░░░░░░░░░░░   34.9% </p>
-<p>🌙 Ночь   -->  ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%</p>
-<br>
 <p>💬 Стек технологий: </p>
-<p>
-  <img src="https://www.flaticon.com/ru/free-icon/html-5_174854?term=html&page=1&position=1&origin=search&related_id=174854"></p>
-<p>CSS</p>
-<p>JavaScript</p>
-<p>Git</p>
-<p>GitHub</p>
-<p>React</p>
-<p>TypeScript</p>
-<p>Vite</p>
-<p>esbuild</p>
-<p>npm</p>
-<p>npm scripts</p>
-<p>Tailwind</p>
-<p>ShadcnUI</p>
-<p>Next.js</p>
-<p>React Native</p>
-<p>Flutter</p>
-<p>Electron</p>
+<div>
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
+</div>
 <br>
 <p>🔥 Редактор кода: </p>
 <p>Visual Studio Code</p>
