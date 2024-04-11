@@ -6,7 +6,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+frontend+разработчик&size=35)](https://git.io/typing-svg)
 
   <div id="header" align="left">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9kZjc2c2x5MWdsNWw0eWI5YjZrZTE3dzY0ZzNoZDR1MW1vcHZrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KOcI8b194P8aI/giphy.gif" width="679"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9kZjc2c2x5MWdsNWw0eWI5YjZrZTE3dzY0ZzNoZDR1MW1vcHZrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KOcI8b194P8aI/giphy.gif" width="689"/>
   </div>
 </div>
 
