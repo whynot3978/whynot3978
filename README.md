@@ -1,6 +1,10 @@
 <div display: flex; flex-direction:row;>
   <h1>👋Привет. Меня зовут Идар</h1>
 
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+frontend+разработчик&size=35)](https://git.io/typing-svg)
+
   <div id="header" align="right">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9kZjc2c2x5MWdsNWw0eWI5YjZrZTE3dzY0ZzNoZDR1MW1vcHZrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KOcI8b194P8aI/giphy.gif" width="1020"/>
   </div>
@@ -17,7 +21,8 @@
 <p>🌙 Ночь   -->  ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%</p>
 <br>
 <p>💬 Стек технологий: </p>
-<p>HTML</p>
+<p>
+  <img src="https://www.flaticon.com/ru/free-icon/html-5_174854?term=html&page=1&position=1&origin=search&related_id=174854"></p>
 <p>CSS</p>
 <p>JavaScript</p>
 <p>Git</p>
